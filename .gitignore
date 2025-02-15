@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+.DS_Store
+.log
+venv/
+env/
+.cache
+
+# For Python 
+*.pyc
+__pycache__/
+.pytest_cache/
+.mypy_cache/ 
+
